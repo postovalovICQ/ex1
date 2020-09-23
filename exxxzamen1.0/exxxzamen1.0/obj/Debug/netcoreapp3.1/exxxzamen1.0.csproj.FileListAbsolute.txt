@@ -1,0 +1,13 @@
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\bin\Debug\netcoreapp3.1\exxxzamen1.0.exe
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\bin\Debug\netcoreapp3.1\exxxzamen1.0.deps.json
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\bin\Debug\netcoreapp3.1\exxxzamen1.0.runtimeconfig.json
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\bin\Debug\netcoreapp3.1\exxxzamen1.0.runtimeconfig.dev.json
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\bin\Debug\netcoreapp3.1\exxxzamen1.0.dll
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\bin\Debug\netcoreapp3.1\exxxzamen1.0.pdb
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\obj\Debug\netcoreapp3.1\exxxzamen1.0.csprojAssemblyReference.cache
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\obj\Debug\netcoreapp3.1\exxxzamen1.0.AssemblyInfoInputs.cache
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\obj\Debug\netcoreapp3.1\exxxzamen1.0.AssemblyInfo.cs
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\obj\Debug\netcoreapp3.1\exxxzamen1.0.csproj.CoreCompileInputs.cache
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\obj\Debug\netcoreapp3.1\exxxzamen1.0.dll
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\obj\Debug\netcoreapp3.1\exxxzamen1.0.pdb
+D:\Проекты Visuo Studio\exxxzamen1.0\exxxzamen1.0\obj\Debug\netcoreapp3.1\exxxzamen1.0.genruntimeconfig.cache
